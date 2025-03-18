@@ -1,0 +1,6 @@
+node_modules
+build
+.svn
+function.js
+function.js.txt
+*.exe
